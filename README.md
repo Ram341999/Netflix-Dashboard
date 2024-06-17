@@ -9,6 +9,7 @@ This Power BI dashboard provides a comprehensive analysis of Netflix's movie and
    - Insights: 
      - Track the growth of Netflix's content library over time.
      - Identify periods of significant content addition.
+       
  ![image](https://github.com/Ram341999/Netflix-Dashboard/assets/44577212/1d53c90e-34bd-4bc5-b9bf-831190df2c46)
 
 
@@ -25,6 +26,7 @@ This Power BI dashboard provides a comprehensive analysis of Netflix's movie and
    - Insights:
      - Identify the most popular genres on Netflix.
      - Compare the number of movies versus TV shows in each genre.
+       
   ![image](https://github.com/Ram341999/Netflix-Dashboard/assets/44577212/65d26e93-9ca1-4626-b123-38231318fd7b)
 
  
@@ -34,6 +36,7 @@ This Power BI dashboard provides a comprehensive analysis of Netflix's movie and
    - Insights:
      - Visualize the global reach of Netflix.
      - Identify regional availability patterns.
+       
  ![image](https://github.com/Ram341999/Netflix-Dashboard/assets/44577212/d3f6b137-26e8-4435-bbb1-308f61ca0933)
 
 
